@@ -1,0 +1,10 @@
+body{    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;}
+
+.CodeMirror { width: 33.3%; float: left;}
+#editorResult{       width: 100%;height: 400px; background: #fff;}
+#editorHead{ width: 100%; height: 40px;}
+#editorHead button, #editorHead div{ float:right; margin-right: 20px;}
+.cm-s-darcula span.cm-tag{ font-style: normal !important;}
