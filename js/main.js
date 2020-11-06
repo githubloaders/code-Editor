@@ -22,7 +22,6 @@ requirejs.config({
 
 
 
-
 /*base template */
 // var EitorUI = `
 // <textarea id="HTMLEditor"><p>HTML</p></textarea>
@@ -32,8 +31,6 @@ requirejs.config({
 //     <iframe id="editorResult" frameBorder="0"></iframe>
 //   </div>
 //   <button id="getresult">Result</button>`;
-
-
 
 
 requirejs(['lib/codemirror', 'mode/xml/xml', 'addon/edit/closetag', 'addon/scroll/simplescrollbars', 'mode/javascript/javascript', 'mode/css/css'],
